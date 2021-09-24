@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HelloWorld" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color.-->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!--Customize your theme here.
+        <color name="primaryColor">#52d6d2</color>
+        <color name="primaryLightColor">#8bffff</color>
+        <color name="primaryDarkColor">#00a4a1</color>
+        <color name="secondaryColor">#9c27b0</color>
+        <color name="secondaryLightColor">#d05ce3</color>
+        <color name="secondaryDarkColor">#6a0080</color>-->
+    </style>
+</resources>
